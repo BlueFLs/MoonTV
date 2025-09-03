@@ -85,7 +85,17 @@
       "name": "AV-奶香香",
       "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
       "detail": "https://Naixxzy.com"
-    },    
+    },
+    "api_55": {
+      "name": "AV-souav资源",
+      "api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list",
+      "detail": "https://api.souavzy.vip"
+    },
+    "api_30": {
+      "name": "AV-百万资源",
+      "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/",
+      "detail": "https://api.bwzyz.com"
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
